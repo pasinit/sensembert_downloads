@@ -12,6 +12,16 @@ The package contains two files each in the word2vec format:
 the first line contains two values separated by space containing the size of the vectors and the number of vectors in the file.
 each subsequent line, instead, is a vector where elements are separated by space and the first component is the id of the sense and the other components are the features.
 
+## Reference
+@inproceedings{scarlinietal:2020,
+  title={SensEmBERT: Context-Enhanced Sense Embeddings for Multilingual Word Sense Disambiguation},
+  author={Scarlini, Bianca and Pasini, Tommaso and Navigli, Roberto},
+  booktitle={Proceedings of the 34th Conference on Artificial Intelligence},
+  publisher={Association for the Advancement of Artificial Intelligence}
+  year={2020}
+}
+
+
 ## License
 <dl>
   <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />SensEmBERT vectors are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
