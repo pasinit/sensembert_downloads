@@ -5,8 +5,8 @@ provided right after the 10th of Dicember!
 
 In the meanwhile, in this repository you can find the data for the paper: [SensEmBERT: Context-Enhanced Sense Embeddings for Multilingual Word Sense Disambiguation](https://pasinit.github.io/papers/scarlini_etal_aaai2020.pdf).
 
-## [Download](https://drive.google.com/drive/folders/1v-Fwa1m5QOlLNBmRAlL_YCoxV0J7bKXy?usp=sharing)
-The package contains two files each in the word2vec format: 
+## Download
+The [package](https://drive.google.com/drive/folders/1v-Fwa1m5QOlLNBmRAlL_YCoxV0J7bKXy?usp=sharing) contains two files each in the word2vec format: 
 the first line contains two values separated by space containing the size of the vectors and the number of vectors in the file.
 each subsequent line, instead, is a vector where elements are separated by space and the first component is the id of the sense and the other components are the features.
 
