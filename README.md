@@ -30,5 +30,3 @@ each subsequent line, instead, is a vector where elements are separated by space
 **NonCommercial** — You may not use the material for commercial purposes.
 
 **ShareAlike** — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
-
-For more information regarding the license please visit https://creativecommons.org/licenses/by-nc-sa/4.0/
