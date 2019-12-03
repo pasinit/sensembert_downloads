@@ -13,6 +13,9 @@ the first line contains two values separated by space containing the size of the
 each subsequent line, instead, is a vector where elements are separated by space and the first component is the id of the sense and the other components are the features.
 
 ## License
+<dl>
+  <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Licenza Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />Quest'opera è distribuita con Licenza <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribuzione - Non commerciale - Condividi allo stesso modo 4.0 Internazionale</a>.
+</dl>
 SensEmBERT vectors are released under the licence:
 Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
 
