@@ -8,19 +8,20 @@ In the meanwhile, in this repository you can find the data for the paper: [SensE
 ## Download
 [Download](https://drive.google.com/drive/folders/1v-Fwa1m5QOlLNBmRAlL_YCoxV0J7bKXy?usp=sharing).
 
-eeweach line is a vector where elements are separated by space and the first component is a sense and the other components the feature of 
+each line is a vector where elements are separated by space and the first component is a sense and the other components the feature of 
 the vectors.
 
+## License
 SensEmBERT vectors are released under the licence:
 Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
 
-## You are free to
+### You are free to
 
 **Share** — copy and redistribute the material in any medium or format
 
 **Adapt** — remix, transform, and build upon the material
 
-## Under the following terms
+### Under the following terms
 
 **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
 
