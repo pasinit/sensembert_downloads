@@ -18,7 +18,7 @@ each subsequent line, instead, is a vector where elements are separated by space
   title={SensEmBERT: Context-Enhanced Sense Embeddings for Multilingual Word Sense Disambiguation},
   author={Scarlini, Bianca and Pasini, Tommaso and Navigli, Roberto},
   booktitle={Proceedings of the 34th Conference on Artificial Intelligence},
-  publisher={Association for the Advancement of Artificial Intelligence}
+  publisher={Association for the Advancement of Artificial Intelligence},
   year={2020}
 }
 ```
